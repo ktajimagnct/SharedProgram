@@ -10,10 +10,10 @@ int main(int argc, char *argv[]){
 
 void printArray(int *array){
 //TODO 田島の担当部分です。担当者以外は触らないでね。
-   配列をprintしました。
+   配列をprintする。
 }
 
 int sortArray(int *array){
 //TODO　丹羽がコードをここに作る
-    バブルソートでsortします;
+    マージソートでsortします;
 }
