@@ -14,4 +14,5 @@ void printArray(int *array){
 
 int sortArray(int *array){
 //TODO　丹羽がコードをここに作る
+    バブルソートでsortします;
 }
